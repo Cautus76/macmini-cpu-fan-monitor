@@ -1,0 +1,7 @@
+build/
+*.so
+*.vapi
+*.zip
+__pycache__/
+*.pyc
+
